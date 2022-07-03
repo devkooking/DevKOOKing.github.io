@@ -1,4 +1,5 @@
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
+remote_theme: just-the-docs/just-the-docs
 
 title : Devkooking Blog
 # logo: "/assets/images/just-the-docs.png"
