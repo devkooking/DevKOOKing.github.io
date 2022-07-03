@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+theme: just-the-docs/just-the-docs
+
+title : Devkooking Blog
+# logo: "/assets/images/just-the-docs.png"
