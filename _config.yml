@@ -19,7 +19,7 @@ remote_theme: just-the-docs/just-the-docs
 title: DevKOOKing Blog
 description: 데이터 엔지니어링 업무 히스토리
 baseurl: ""
-url: "http://www.devkooking.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://devkooking.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
